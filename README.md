@@ -2,7 +2,7 @@
 
 **(The Journal of Finance, 2021, Can Gao & Ian W. R. Martin)**
 
-This project provides an empirical replication codebase in Python for the aforementioned academic paper. The authors construct a forward-looking "Market Sentiment and Bubbles" measure, denoted as $B_t$. This index synthesizes the lower bound of expected returns implied by option market data, risk-free interest rates, and the fundamental equity premium predicted by Valuation Ratios.
+This project modernizes an empirical replication codebase in Python for the aforementioned academic paper, based on the official implement. The authors construct a forward-looking "Market Sentiment and Bubbles" measure, denoted as $B_t$. This index synthesizes the lower bound of expected returns implied by option market data, risk-free interest rates, and the fundamental equity premium predicted by Valuation Ratios. Pseudo data can be found at JoF.
 
 ## Code Structure
 
@@ -76,3 +76,4 @@ The original codebase was authored in an older ecosystem. Rapid iterations of Py
    python Code_for_JF_GMdecom/Code_2_estimating_E[g-r]_and\ bootstrap.py
    python Code_for_JF_GMdecom/Code_3_comparing\ to\ other\ index.py
    ```
+
